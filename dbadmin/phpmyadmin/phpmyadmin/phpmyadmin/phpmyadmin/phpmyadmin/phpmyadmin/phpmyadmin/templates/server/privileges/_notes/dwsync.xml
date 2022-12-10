@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="users_overview.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="user_overview.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="add_user.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="choose_user_group.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="new_user_ajax.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="change_password.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="privileges_table.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="add_user_fieldset.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="user_properties.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="privileges_summary.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="initials_row.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="login_information_fields.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="edit_routine_privileges.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="subnav.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+</dwsync>

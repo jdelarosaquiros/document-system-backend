@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="master_replication.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="master_configuration.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="index.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="slave_configuration.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="status_table.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="change_master.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="database_multibox.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+<file name="master_add_slave_user.twig" server="192.168.56.101//var/www/html/" local="132672576440000000" remote="132672576440000000" Dst="1" />
+</dwsync>
